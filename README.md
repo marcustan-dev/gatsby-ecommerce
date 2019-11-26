@@ -2,4 +2,4 @@
 
 ## Deploy on DatoCMS
 
-[![Deploy with DatoCMS](https://dashboard.datocms.com/deploy/button.svg)](https://dashboard.datocms.com/deploy?repo=datocms/snipcart-gatsby-demo)
+[![Deploy with DatoCMS](https://dashboard.datocms.com/deploy/button.svg)](https://dashboard.datocms.com/deploy?repo=datocms/snipcart-gatsby-demo) [![Greenkeeper badge](https://badges.greenkeeper.io/marcustan-dev/gatsby-ecommerce.svg)](https://greenkeeper.io/)
